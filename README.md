@@ -48,3 +48,11 @@ The dataset contains details of parcel deliveries and includes:
 
 ## 📎 File Structure
 
+
+
+---
+
+## ⚙️ Requirements
+To run the notebook:
+```bash
+pip install -r requirements.txt
